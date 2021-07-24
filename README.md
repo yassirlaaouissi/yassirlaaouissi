@@ -74,6 +74,6 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/yassirlaaouissi/yassilaaouissi/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+<img src="https://raw.githubusercontent.com/yassirlaaouissi/yassirlaaouissi/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
