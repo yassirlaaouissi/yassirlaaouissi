@@ -13,7 +13,7 @@
 <table width="100%">
 <tr>
 <td align="center">
-<a href="https://blog.verysecret.agency">
+<a href="https://verysecret.agency">
 <strong>Visit my ultracool blog </strong>
 <br />
 <br />
